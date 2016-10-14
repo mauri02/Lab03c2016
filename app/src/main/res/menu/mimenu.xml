@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.miapp.MainActivity">
+    <item
+        android:id="@+id/idMenu1"
+        android:title="CREAR UNA OFERTA"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
